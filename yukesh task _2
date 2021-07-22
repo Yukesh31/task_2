@@ -17,7 +17,16 @@ solution:
 5.layout computes where a node will be on the screen  .
 6.painting produces bitmap from each layer and it is uploadedto GPU as gesture.
 
-3) Execute the bellow code and write your description in txt file
+
+3)To read - https://stackoverflow.com/questions/5641997/is-it-necessary-to-write-head-body-and-html-tags
+Omitting the html, head, and body tags is certainly allowed by the HTML specs. 
+but in good practise we should put all the tags .
+it makes the spec more complex, which in turn makes it harder for browser authors to write correct implementations
+is also may throw some small erorrs in IE.
+so it is not necessary to put those rags but including these tags will be the best and good practise.
+
+
+4) Execute the bellow code and write your description in txt file
         typeof(1)= number
         typeof(1.1)=number
         typeof('1.1')=string
@@ -27,5 +36,15 @@ solution:
         typeof([])= object
         typeof({})=object
         typeof(NaN)= number
+        
+ 5)Read what is prototype
+ A simulation or sample version of a final product, which is used for testing prior to launch.
+ The goal of a prototype is to test products before sinking lots of time and money into the final product.
+In software development, a prototype is a rudimentary working model of a product or information system, 
+usually built for demonstration purposes or as part of the development process.
+ a standard or typical example.
+ 
+        
+        
 
  
